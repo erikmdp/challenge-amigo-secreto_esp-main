@@ -1,0 +1,36 @@
+# Amigo Secreto
+
+Este proyecto es una aplicación web simple que permite agregar nombres de amigos y realizar un sorteo al azar entre ellos.
+
+## Tecnologías utilizadas
+- **HTML**: Estructura de la página web.
+- **CSS**: Estilos para la interfaz de usuario.
+- **JavaScript**: Lógica para agregar nombres y realizar el sorteo.
+
+## Funcionamiento de la página
+La página tiene una interfaz sencilla con los siguientes elementos:
+
+1. **Campo de entrada**: Permite ingresar los nombres de los participantes.
+2. **Botón "Añadir"**: Agrega el nombre a la lista de amigos.
+3. **Lista de amigos**: Muestra los nombres ingresados.
+4. **Botón "Sortear amigo"**: Selecciona un nombre al azar de la lista.
+5. **Resultado del sorteo**: Muestra el nombre del ganador.
+
+## Archivos del proyecto
+
+- **index.html**: Contiene la estructura principal de la página.
+- **style.css**: Define los estilos para mejorar la apariencia de la página.
+- **app.js**: Maneja la lógica para agregar nombres y realizar el sorteo.
+
+## Cómo usar la aplicación
+1. Abre el archivo `index.html` en un navegador web.
+2. Escribe un nombre en el campo de entrada y presiona el botón "Añadir".
+3. Repite el proceso para agregar más nombres.
+4. Presiona el botón "Sortear amigo" para seleccionar un nombre al azar.
+5. El resultado se mostrará en pantalla.
+
+## Requisitos
+Para ejecutar esta aplicación, solo necesitas un navegador web moderno. No requiere instalaciones adicionales.
+
+
+
